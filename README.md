@@ -3,6 +3,7 @@
 The scale of potencial possibilites as Flutter provides to us is awesome, it makes me fall in love once again in IT. I don't know why but it is as it is
 - 🌱 I’m currently learning something new, as I mentioned before. Creating, testing - expecialy testing new apps. I am reading about Docker and Kubernetes's Cluster,
 about possibilites of Jest, Vue.. But currently I am exited about flutter and raspberry Pi. I wonder what can I do with these cool tools.
+- PS: Recently in love triangle with Vue and Rust ❤️
 
 <!---
 BrittleHeart/BrittleHeart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
